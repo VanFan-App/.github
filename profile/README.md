@@ -1,4 +1,4 @@
-<img align="right" width="240" height="240" href="/" src="https://github.com/VanFan-App/VanFan-Frontend/blob/main/doc/images/VanFan-Logo-Van-ohne-Hintergrund.png" alt="logo">
+<img align="right" width="240" height="240" href="/" src="/images/Logo%20VANFAN.png" alt="logo">
 
 # VanFan-App
 VanFan is an app, which allows VanLifers of europe to connect and meet with each other.
